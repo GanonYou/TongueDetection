@@ -18,7 +18,7 @@
 
 效果如下图所示:
 
-![example](https://github.com/GanonYou/TongueDetection/example.jpg)
+![example](https://github.com/GanonYou/TongueDetection/blob/master/example.jpg)
 
 
 ## inputImageCheck.py
