@@ -1,5 +1,4 @@
 # TongueTest
-# 图片检测接口说明
 ## 依赖包
 - opencv-python
 - numpy
@@ -11,6 +10,15 @@
 - haarcascade\_mcs\_mouth.xml
 
 请将压缩包中的这两个文件和inputImageCheck.py放在同一个目录下。
+
+## detectTongue.py
+- Step 1: 通过HSV三通道的处理，提出舌体轮廓
+- Step 2: 通过色度阈值法判断是否是舌头
+- Step 3: 分离舌质舌苔
+
+效果如下图所示:
+
+
 
 ## inputImageCheck.py
 ### 1.直接调用inputImageCheck(img,type) 函数
