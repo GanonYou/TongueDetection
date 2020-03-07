@@ -17,7 +17,7 @@
 - Step 3: 分离舌质舌苔
 
 效果如下图所示:
-
+![example](https://github.com/GanonYou/TongueDetection/example.png)
 
 
 ## inputImageCheck.py
